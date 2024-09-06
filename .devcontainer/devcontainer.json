@@ -1,0 +1,7 @@
+{
+  "name": "NodeJS container",
+  "dockerComposeFile": "docker-compose.yml",
+  "service": "dev-env",
+  "workspaceFolder": "/workspace",
+  "shutdownAction": "stopCompose"
+}
